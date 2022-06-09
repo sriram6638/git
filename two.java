@@ -1,9 +1,9 @@
 public static void ()
 {
-huihkjcnvkd
-ijncjknskjn s
-jnjhfuwaqd,lam;l 
-jsicskcmskc
-nwicnkmc
-incjnjcbsiu9
+1
+2
+3
+4
+5
+6
 }
